@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.2.2",
+    "dotenv": "^16.0.0"
+  },
+  "license": "ISC"
+}
